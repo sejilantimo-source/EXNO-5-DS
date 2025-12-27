@@ -18,8 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- NAME : AT ABHISHEK
- REG NO : 212224040006
+
 
 ```
  import pandas as pd
